@@ -1,0 +1,12 @@
+cd C:\Users\omar\Desktop\03_coffee_shop_full_stack\venv\Scripts
+activate.bat
+cd C:\Users\omar\Desktop\03_coffee_shop_full_stack\starter_code\frontend
+ionic serve
+---------------------
+cd C:\Users\omar\Desktop\03_coffee_shop_full_stack\venv\Scripts
+activate.bat
+cd C:\Users\omar\Desktop\03_coffee_shop_full_stack\starter_code\backend\src
+set flask_app=api.py
+set flask_debug=on
+flask run
+
